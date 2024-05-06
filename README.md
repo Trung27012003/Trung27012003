@@ -5,7 +5,6 @@
 </div>
 
 <h2 align="center">
-  hey there
   <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" width="100px"/>
 </h2>
 
