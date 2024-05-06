@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="ttps://gifer.com/embed/oNW" />
+  <img src="https://gifer.com/embed/oNW" />
 </div>
 <div id="badges" align="center">
 </div>
