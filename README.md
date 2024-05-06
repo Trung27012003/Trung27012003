@@ -1,16 +1,19 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/564x/58/87/fc/5887fcc46b67535676395c83e6d15623.jpg" width="100"/>
+</div>
+<div id="badges" align="center">
+</div>
 
-<!--
-**Trung27012003/Trung27012003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  hey there
+  <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" width="100px"/>
+</h2>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="#" target="_blank">
+  <img src="svg\devmeobeo.svg" width="1200" alt="devmeobeo-official" />
+</a>
