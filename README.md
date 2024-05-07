@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://gifer.com/embed/oNW" />
-</div>
-<div id="badges" align="center">
-</div>
 <h2 align="center">
   <img src="https://i.pinimg.com/originals/72/09/9e/72099e3c457732d395205929c29ef784.gif" width="100px"/>
 </h2>
@@ -20,11 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=trung27012003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trung27012003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trung27012003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=trung27012003&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-
 
 
 
